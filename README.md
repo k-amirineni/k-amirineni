@@ -51,5 +51,5 @@ efficient, collaborative, and continuously evolving.
 
 ---
 ## 🔗 Connect with Me
-LinkedIn: in/krishna-karthik-amirineni/
+LinkedIn: [in/krishna-karthik-amirineni](https://www.linkedin.com/in/krishna-karthik-amirineni/)<br>
 Mail: reach@krishnafor.us
