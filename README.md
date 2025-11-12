@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 **Software Engineer • Product-Driven • Innovation-Focused • Scalable Designs**
 
 ---
-I am a passionate Sr. Software Engineer with a product-driven mindset, focused on creating **scalable**, **resilient**, and **elegant solutions** for complex business and technology challenges.
-
-I am recognized for leading large-scale initiatives architecting **fault-tolerant platforms** (2 tech incidents over 4 years for the recent one i have worked on during the last few years), delivering strategic platform improvements, and driving cross-team collaboration. My journey spans **cloud platform modernization**, **microservices**, **infrastructure as code**, and architecting solutions that empower teams enterprise-wide.
+I am a passionate Senior Software Engineer and a Leader with a product-driven mindset, focused on creating **scalable**, **resilient**, and **elegant solutions** for complex business and technology challenges. Having led over 2 teams in delivering products while working together with product to establish roadmaps and refining product capabilities. I am recognized for leading large-scale initiatives architecting **fault-tolerant platforms** (2 tech incidents over  5 years for the recent one i have worked on during the last few years), delivering strategic platform improvements, and driving cross-team collaboration. My journey spans **cloud platform modernization**, **microservices**, **infrastructure as code**, and architecting solutions that empower teams enterprise-wide.
 
 ---
 
